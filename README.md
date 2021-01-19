@@ -1,4 +1,4 @@
-# static_content-exclusive_01
+# exclusive_01
 
 This is a simple collection of Creative Commons Non-Commercial Licensed content that I've modified for use in [The Open Buddhist University](https://buddhist-uni.github.io).
 
