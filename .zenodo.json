@@ -12,10 +12,13 @@
   "related_identifiers": [
     {
       "relation": "isPartOf",
-      "identifier": "https://buddhist-uni.github.io/"
+      "identifier": "https://www.buddhistuniversity.net"
     },{
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/exclusive_01"
+      "relation": "isDerivedFrom",
+      "identifier": "https://github.com/buddhist-uni/exclusive_01"
+    },{
+      "relation": "isReferencedBy",
+      "identifier": "https://doi.org/10.5281/zenodo.4448510"
     }
   ],
   "subjects": [{
